@@ -2,8 +2,8 @@
 
 ## Pagina oficial de [TensorFlow](https://www.tensorflow.org/?hl=es-419)
 
-![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![Badge tutorial](https://img.shields.io/badge/TYPE-TUTORIAL-blue)
+![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
