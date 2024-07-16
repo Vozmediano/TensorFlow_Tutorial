@@ -1,4 +1,5 @@
-![tensorflow](https://github.com/user-attachments/assets/50e7dfc8-8021-4490-b1ee-8bbf75967344)
+
+![Tensorflow](https://github.com/user-attachments/assets/6e300673-0e0f-47f3-9fc1-ea0010cfa3b2)
 
 ## Pagina oficial de [TensorFlow](https://www.tensorflow.org/?hl=es-419)
 
