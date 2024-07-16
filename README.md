@@ -2,12 +2,7 @@
 
 ## Pagina oficial de [TensorFlow](https://www.tensorflow.org/?hl=es-419)
 
-![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue)
-![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green)
-![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto)
-![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2)
-![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
-
+# ![Badge TUTORIAL](https://img.shields.io/badge/TYPE-TUTORIAL-blue) ![Badge LENGUAJE](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=white&logoSize=auto) ![Badge FINALIZADO](https://img.shields.io/badge/STATUS-FINALIZADO-green) ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2) ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
 
 En este tutorial vamos a ver la libreria scikit-learn, también llamada sklearn, es una de las librerías de aprendizaje automático en código abierto más utilizadas del lenguaje de programación Python, por ser de gran ayuda en cuanto al procesamiento, la regresión, la clasificación y la selección de modelos. Contiene una gran variedad de algoritmos de aprendizaje automático y herramientas de procesamiento y análisis de datos.
