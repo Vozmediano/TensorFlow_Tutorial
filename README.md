@@ -7,7 +7,7 @@
 ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 
-![Badge DISFRUTALO](https://img.shields.io/badge/build-passing-brightgreen?style=flat&logo=python&logoColor=red&logoSize=auto)
+![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE-PYTHON-red?style=flat&logo=python&logoColor=WHITE&logoSize=auto)
 
 
 
