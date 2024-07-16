@@ -7,6 +7,7 @@
 ![Badge DISFRUTALO](https://img.shields.io/badge/ENJOY%20IT-8A2BE2)
 ![GitHub Org's stars](https://img.shields.io/github/stars/camilafernanda?style=social)
 ![Badge DISFRUTALO](https://img.shields.io/badge/LANGUAGE?style=flat&logo=42)
+![Badge DISFRUTALO](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 
 
 En este tutorial vamos a ver la libreria scikit-learn, también llamada sklearn, es una de las librerías de aprendizaje automático en código abierto más utilizadas del lenguaje de programación Python, por ser de gran ayuda en cuanto al procesamiento, la regresión, la clasificación y la selección de modelos. Contiene una gran variedad de algoritmos de aprendizaje automático y herramientas de procesamiento y análisis de datos.
