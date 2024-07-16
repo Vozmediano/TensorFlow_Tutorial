@@ -10,7 +10,7 @@
 ![Badge DISFRUTALO](https://img.shields.io/badge/play-station-blue.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+)
 ![Badge DISFRUTALO](https://img.shields.io/npm/v/python.svg?logo=nodedotjs)
 <svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title></title><path d="M19.581 16.851H24v-4.439ZM24 3.574h-4.419v4.42l-4.419 4.418v4.44h4.419v-4.44L24 7.993Zm-4.419 0h-4.419v4.42zm-6.324 8.838H4.419l8.838-8.838H8.838L0 12.412v3.595h8.838v4.419h4.419z"/></svg>
-![Badge DISFRUTALO]([https://img.shields.io/badge/language?style=for-the-badge&logo=python](https://img.shields.io/badge/language?style=for-the-badge&logo=%3Csvg%20role%3D%22img%22%20viewBox%3D%220%200%2024%2024%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%3Ctitle%3E42%3C%2Ftitle%3E%3Cpath%20d%3D%22M19.581%2016.851H24v-4.439ZM24%203.574h-4.419v4.42l-4.419%204.418v4.44h4.419v-4.44L24%207.993Zm-4.419%200h-4.419v4.42zm-6.324%208.838H4.419l8.838-8.838H8.838L0%2012.412v3.595h8.838v4.419h4.419z%22%2F%3E%3C%2Fsvg%3E))
+![Badge DISFRUTALO](https://img.shields.io/badge/build-passing-brightgreen?style=for-the-badge&logo=python&logoColor=red&logoSize=auto)
 
 
 
