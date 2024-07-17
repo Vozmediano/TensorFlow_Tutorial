@@ -7,9 +7,6 @@ Los datos en este repositorio están organizados para apoyar el proyecto princip
 ## Descripción de los Archivos
 Aquí dejo una breve descripción de cada archivo incluido en este repositorio:
 
-- **Advertising.csv:** Esta data incluye los presupuestos publicitarios para tres medios diferentes: televisión, radio y periódicos.
-- **Wholesale customers data.csv:** Datos de clientes mayoristas, incluyendo el gasto en diferentes categorías de productos.
-- **country_stats.csv:** Estadísticas de diferentes países, incluyendo el PIB per cápita y la satisfacción con la vida.
-- **spam[1].csv:** Mensajes de correo electrónico clasificados como spam o no spam.
-- **winequality-red.csv:** Datos relacionados con muestras del vino del norte de Portugal. El objetivo es modelar la calidad del vino basado en pruebas fisicoquímicas.
-
+- **abalone.csv:** Este archivo contiene datos sobre abalones, incluyendo varias medidas físicas (longitud, diametro, altura, peso, edad) estimados de las diferentes partes de los ejemplares. Los datos son utilizados comúnmente para estudios de crecimiento y análisis biológicos de los abalones, así como su edad estimada mediante el conteo de anillos.
+- **california housing clean.csv:** Precio de las viviendas el California, calculo del precio por factores, multitud de columnas con factores que interfieren en el precio de la vivienda como localizacion, antiguedad, tamaño, numero de habitaciones...
+- **diabetes.csv:** Data con resultados de personas con o sin diabetes, con columnas como edad, espesor de la piel, etc.
